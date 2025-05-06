@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\HP\Documents\ANNEE 2024-2025\ANNEE Ii1\Projet PRO\.metadata\.plugins\org.eclipse.jdt.core
+4169627870.index
+2930196246.index
