@@ -47,6 +47,20 @@ public abstract class MenuItem {
 		this.prix = prix;
 	}
 	
-	public abstract void afficher();
+	public void ajouter() {
+		
+	}
+	
+	public void modifier() {
+		
+	}
+	
+	public void supprimer() {
+		
+	}
+	
+	public void afficher() {
+		
+	}
 	
 }
